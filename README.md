@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DJxIO-dev%26fontSize%3D90" width="100%"/>
-
-
-
 
 <!-- Navegación de Idiomas / Language Navigation -->
 
@@ -33,9 +29,7 @@ Here are some ideas to get you started:
 
 ✨ English
 
-Hi there! I'm JxIO-dev 🚀
-
-Welcome to my GitHub profile. Here you can find my projects and contributions.
+Welcome to my GitHub profile. Here you can find my projects and contributions. 🚀
 
 <!-- Sección 1my.me destacada -->
 
@@ -56,9 +50,7 @@ If you are interested in acquiring it, please contact me at: 1my@jxio.dev
 
 ✨ Español
 
-¡Hola! Soy JxIO-dev 🚀
-
-Bienvenido a mi perfil de GitHub. Aquí podrás encontrar mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub. Aquí podrás encontrar mis proyectos y contribuciones. 🚀
 
 <!-- Sección 1my.me destacada -->
 
