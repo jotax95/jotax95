@@ -1,68 +1,47 @@
-## Hi there 👋
-
-<!--
-**jotax95/jotax95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-<!-- Navegación de Idiomas / Language Navigation -->
+<sub>✦ &nbsp; AN OPEN SPACE FOR IDEAS &nbsp; ✦</sub>
 
-<h3>
-<a href="#-english">English 🇺🇸</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="#-español">Español 🇪🇸</a>
-</h3>
+<pre align="center">
+           .            *            .
+
+      _  __  __  ___   ___
+     | | \ \/ / |_ _| / _ \
+  _  | |  &gt;  &lt;   | | | | | |
+ | |_| | /_/\_\  | | | |_| |
+  \___/         |___| \___/
+
+           *            .            +
+</pre>
+
+**`jotax95`**
+
+<sub>IDEAS &nbsp; / &nbsp; CODE &nbsp; / &nbsp; EXPERIMENTS</sub>
+
+[Explore public repositories ↗](https://github.com/jotax95?tab=repositories)
+
 </div>
 
-<div id="-english"></div>
+---
 
-✨ English
+### `01 / EN` — Where ideas take shape.
 
-Welcome to my GitHub profile. Here you can find my projects and contributions. 🚀
+I build things to understand how they work. Sometimes an experiment becomes a project; sometimes it becomes a better question.
 
-<!-- Sección 1my.me destacada -->
+Here you'll find the code and ideas I've chosen to share.
 
-[!IMPORTANT]
+### `02 / ES` — Donde las ideas toman forma.
 
-✦ Domain Ownership
+Creo cosas para entender cómo funcionan. A veces un experimento se convierte en proyecto; otras veces, en una pregunta mejor.
 
-I am the current owner of 1my.me 🌐
+Aquí encontrarás el código y las ideas que he decidido compartir.
 
-📩 Interested in this domain?
-If you are interested in acquiring it, please contact me at: 1my@jxio.dev
+---
 
-<div align="right">
-<a href="#-español">Go to Spanish 🇪🇸</a>
-</div>
+<div align="center">
 
-<div id="-español"></div>
+<sub><code>BUILD · EXPLORE · ITERATE</code></sub>
 
-✨ Español
+<sub>✦ &nbsp; Always evolving &nbsp; ✦</sub>
 
-Bienvenido a mi perfil de GitHub. Aquí podrás encontrar mis proyectos y contribuciones. 🚀
-
-<!-- Sección 1my.me destacada -->
-
-[!IMPORTANT]
-
-✦ Propiedad del Dominio
-
-Soy el actual dueño de 1my.me 🌐
-
-📩 ¿Te interesa este dominio?
-Si estás interesado en adquirirlo, puedes contactarme en: 1my@jxio.dev
-
-<div align="right">
-<a href="#-english">Ir a Inglés 🇺🇸</a>
 </div>
