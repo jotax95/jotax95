@@ -1,68 +1,51 @@
-## Hi there 👋
-
-<!--
-**jotax95/jotax95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-<!-- Navegación de Idiomas / Language Navigation -->
+<sub>✦ &nbsp; A SMALL CORNER OF THE INTERNET &nbsp; ✦</sub>
 
-<h3>
-<a href="#-english">English 🇺🇸</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="#-español">Español 🇪🇸</a>
-</h3>
+```text
+           .             *                .
+
+      _  __  __  ___   ___
+     | | \ \/ / |_ _| / _ \
+  _  | |  >  <   | | | | | |
+ | |_| | /_/\_\  | | | |_| |
+  \___/         |___| \___/
+
+       *         .              +
+```
+
+**`jotax95`** · Building, exploring, iterating.
+
+[**jxio.dev**](https://jxio.dev) &nbsp;·&nbsp; [**Repositories**](https://github.com/jotax95?tab=repositories)
+
+<sub>EN ↓ &nbsp; / &nbsp; ES ↓</sub>
+
 </div>
 
-<div id="-english"></div>
+---
 
-✨ English
+### `01 / EN` — Hello, internet.
 
-Welcome to my GitHub profile. Here you can find my projects and contributions. 🚀
+I make things, take them apart, and put them back together a little differently.
 
-<!-- Sección 1my.me destacada -->
+This is my public corner for code and experiments. The interesting parts live in the repositories; the rest can stay a mystery.
 
-[!IMPORTANT]
+**Explore:** [Public projects →](https://github.com/jotax95?tab=repositories) · [The website →](https://jxio.dev)
 
-✦ Domain Ownership
+### `02 / ES` — Hola, internet.
 
-I am the current owner of 1my.me 🌐
+Me gusta crear cosas, entender cómo funcionan y reconstruirlas de otra manera.
 
-📩 Interested in this domain?
-If you are interested in acquiring it, please contact me at: 1my@jxio.dev
+Este es mi espacio público para código y experimentos. Lo interesante está en los repositorios; el resto puede quedarse en misterio.
 
-<div align="right">
-<a href="#-español">Go to Spanish 🇪🇸</a>
-</div>
+**Explorar:** [Proyectos públicos →](https://github.com/jotax95?tab=repositories) · [El sitio web →](https://jxio.dev)
 
-<div id="-español"></div>
+---
 
-✨ Español
+<div align="center">
 
-Bienvenido a mi perfil de GitHub. Aquí podrás encontrar mis proyectos y contribuciones. 🚀
+<sub><code>EXPLORE / BUILD / REPEAT</code></sub>
 
-<!-- Sección 1my.me destacada -->
+<sub>✦ &nbsp; No trackers. No counters. Just the work. &nbsp; ✦</sub>
 
-[!IMPORTANT]
-
-✦ Propiedad del Dominio
-
-Soy el actual dueño de 1my.me 🌐
-
-📩 ¿Te interesa este dominio?
-Si estás interesado en adquirirlo, puedes contactarme en: 1my@jxio.dev
-
-<div align="right">
-<a href="#-english">Ir a Inglés 🇺🇸</a>
 </div>
